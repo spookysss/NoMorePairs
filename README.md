@@ -1,8 +1,9 @@
 ![image](https://i.ibb.co/xGBMLx3/Sem-t-tulo-13.png)
+---
 # No More Pairs
-No More Pairs is a Roblox plugin made for 2 types of people, scripters that got used to write pairs(), and game owners or game managers.
+No More Pairs is a Roblox plugin made for 2 types of people, scripters that got used to write pairs() in their scripts, and game owners/managers.
 # How does it work?
-The plugin uses string manipulation, so it detects the pairs() pattern and removes it
+The plugin uses string manipulation to detect pairs() pattern, and then removes the pairs()
 # Why is pairs() bad?
 In LUA itself, its necessary to use pairs(). And Roblox, since it uses LUA, was also like that. But Roblox removed this obligatory pairs(), now you don't need it! But some people still are used to it.
 # Why using No More Pairs
