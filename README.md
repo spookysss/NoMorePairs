@@ -1,4 +1,4 @@
-[[[https://ibb.co/Gk8VpzF]]](https://ibb.co/Gk8VpzF)
+https://i.ibb.co/xGBMLx3/Sem-t-tulo-13.png
 # No More Pairs
 No More Pairs is a Roblox plugin made for 2 types of people, scripters that got used to write pairs(), and game owners or game managers.
 # How does it work?
