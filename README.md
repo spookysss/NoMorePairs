@@ -16,5 +16,5 @@ In LUA itself, its necessary to use pairs(). And Roblox, since it uses LUA, was 
 First, you will choose which option do you want. When done choosing, press the "No More Pairs!" button, and done! Easy like that.
 # Where can i download it?
 Those are the download options:
-* Source code:
-* Roblox:
+* Source code: https://github.com/spookysss/NoMorePairs/releases
+* Roblox: https://create.roblox.com/store/asset/16551581179/No-More-Pairs%3Fkeyword=&pageNumber=&pagePosition=
