@@ -6,4 +6,14 @@ The plugin uses string manipulation, so it detects the pairs() pattern and remov
 # Why is pairs() bad?
 In LUA itself, its necessary to use pairs(). And Roblox, since it uses LUA, was also like that. But Roblox removed this obrigatory pairs(), now you don't need it! But some people still are used to it.
 # Why using No More Pairs
-
+- Free
+- Open source
+- Easy to use
+- More optmization to your game
+# How to use it?
+![image](https://i.ibb.co/q5LfLck/image.png)
+First, you will choose which option do you want. When done choosing, press the "No More Pairs!" button, and done! Easy like that.
+# Where can i download it?
+Those are the download options:
+* Source code:
+* Roblox:
